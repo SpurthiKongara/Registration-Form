@@ -1,0 +1,29 @@
+# Registration Form
+
+A simple and elegant **HTML & CSS Registration Form** project.  
+This form demonstrates the use of semantic HTML elements, custom fonts, and styling for a clean user interface.
+
+## 🚀 Live Demo
+🔗 [View Project on GitHub Pages](https://SpurthiKongara.github.io/Registration-Form/)
+
+## 📂 Project Structure
+- `index.html` → Main registration form page
+- `Reg.css` → Stylesheet for layout, fonts, and colors
+- `regcss2.jpg` → Background image
+- `ownregbutton.html` → Linked page for form submission (optional)
+
+## ✨ Features
+- Responsive form layout
+- Custom Google Fonts (`DM Serif Text`, `Lobster`, `Merienda`)
+- Background image integration
+- Input fields for:
+  - Username
+  - Email
+  - Date of Birth
+  - Password & Confirm Password
+- Submit button with action link
+
+## 🛠️ How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/SpurthiKongara/Registration-Form.git
