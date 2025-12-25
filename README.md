@@ -10,7 +10,11 @@ This form demonstrates the use of semantic HTML elements, custom fonts, and styl
 - `index.html` → Main registration form page
 - `Reg.css` → Stylesheet for layout, fonts, and colors
 - `regcss2.jpg` → Background image
-- `ownregbutton.html` → Linked page for form submission (optional)
+
+## 📸 Screenshot
+
+![Registration Form Screenshot](Screenshot%202025-02-02%20220036.png)
+
 
 ## ✨ Features
 - Responsive form layout
